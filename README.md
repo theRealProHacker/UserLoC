@@ -2,9 +2,7 @@
 
 This succinct web app provides the possibility to view the number of lines of code a user has on their public GitHub/GitLab account.
 
-# Try it out live
-
-[Here on Glitch](https://userloc.glitch.me)
+Try it out [live](https://therealprohacker.github.io/UserLoC/).
 
 # Contributing
 
